@@ -1,0 +1,26 @@
+.in1 {
+
+  .fixedtop, .fixedcenter {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+
+  .fixedcenter {
+    top: 50%;
+    transform: 0 -50%;
+  }
+
+}
+
+.backmountain {
+  background: no-repeat url(../media/images/back1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.backblue1 {
+  background-color: #114;
+}

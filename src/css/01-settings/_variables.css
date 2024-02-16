@@ -1,0 +1,12 @@
+:root {
+
+  /* foreground colours */
+  --color-fore1: #fff;
+
+  /* background colours */
+  --color-back1: #030405;
+
+  /* link colours */
+  --color-link1: #33f;
+  --color-link2: #99d;
+}

@@ -1,0 +1,16 @@
+h1 {
+  font-size: 20vmin;
+  text-align: center;
+  margin-block-start: 30dvh;
+}
+
+h2 {
+  font-size: 5.5vmin;
+  text-align: center;
+  margin-block-start: 5dvh;
+}
+
+p {
+  font-size: 5vmin;
+  text-align: center;
+}

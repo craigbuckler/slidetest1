@@ -1,0 +1,18 @@
+{
+  "name": "slidetest",
+  "version": "1.0.0",
+  "description": "test slider",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf ./build/*",
+    "start": "npm run clean && node --no-warnings --env-file=.env.dev ./esbuild.config.js",
+    "build": "npm run clean && node --no-warnings --env-file=.env.dev --env-file=.env.prod ./esbuild.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Buckler",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.20.0"
+  }
+}
