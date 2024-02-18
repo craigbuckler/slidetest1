@@ -40,6 +40,10 @@
     transition-delay: 1.0s;
   }
 
+  .delay3 {
+    transition-delay: 1.5s;
+  }
+
   .inactive {
 
     .showfade { opacity: 0; }
