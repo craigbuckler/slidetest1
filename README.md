@@ -1,6 +1,6 @@
 # Slides (test 1)
 
-An HTML presentation experiment.
+An HTML presentation experiment. This version presumes all slides are the same height as the viewport. [slidetest2](https://github.com/craigbuckler/slidetest2) removes this restriction and makes further performance improvements.
 
 Install the [esbuild](https://esbuild.github.io/) build system with:
 
